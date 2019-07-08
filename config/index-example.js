@@ -3,7 +3,7 @@
 const config = {
   host: 'localhost',
   port: 3000,
-  apiKey: 'key',
+  apiKey: 'key', // auth api key to access http API
 
   mongoUri: 'mongodb://localhost/dev-db'
 };
