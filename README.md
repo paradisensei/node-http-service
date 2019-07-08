@@ -1,7 +1,7 @@
 ## Installation instructions
 
 1. Run mongodb in-memory `mongod --storageEngine mmapv1` and create database
-2. Create config for different environments in `index.js` file based on `index-example.js` in `config` folder
+2. Create config for different environments in `index.js` file based on `index-example.js` in [config](https://github.com/paradisensei/node-http-service/tree/master/config) folder
 3. Run `npm install` to install dependencies
 
 ## Running instruction
